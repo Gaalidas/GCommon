@@ -1,0 +1,6 @@
+C:\Users\solfl\Documents\CSharpStuff\Commons\GCommon\bin\Debug\GCommon.dll
+C:\Users\solfl\Documents\CSharpStuff\Commons\GCommon\bin\Debug\GCommon.pdb
+C:\Users\solfl\Documents\CSharpStuff\Commons\GCommon\obj\Debug\GCommon.csprojAssemblyReference.cache
+C:\Users\solfl\Documents\CSharpStuff\Commons\GCommon\obj\Debug\GCommon.csproj.CoreCompileInputs.cache
+C:\Users\solfl\Documents\CSharpStuff\Commons\GCommon\obj\Debug\GCommon.dll
+C:\Users\solfl\Documents\CSharpStuff\Commons\GCommon\obj\Debug\GCommon.pdb
